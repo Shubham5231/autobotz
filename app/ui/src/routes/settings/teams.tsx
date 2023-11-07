@@ -128,7 +128,7 @@ export default function SettingsTeamsRoot() {
               </button>
             </div>
             <p className="mt-1 text-sm leading-6 text-gray-500">
-              Manage all users in your Ipangram Application
+              Manage all users in your Autobotz Application
             </p>
 
             <dl className="mt-6 space-y-6 divide-y divide-gray-100   text-sm leading-6 ">
